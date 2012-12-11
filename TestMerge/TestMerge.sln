@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMerge", "TestMerge\TestMerge.csproj", "{E3576D8F-6F4B-4044-BFAB-5EEA10FC8AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMerge.Tests", "TestMerge.Tests\TestMerge.Tests.csproj", "{14040485-28DD-44F2-A0E6-BEC8B91ACDD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3576D8F-6F4B-4044-BFAB-5EEA10FC8AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3576D8F-6F4B-4044-BFAB-5EEA10FC8AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3576D8F-6F4B-4044-BFAB-5EEA10FC8AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3576D8F-6F4B-4044-BFAB-5EEA10FC8AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14040485-28DD-44F2-A0E6-BEC8B91ACDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14040485-28DD-44F2-A0E6-BEC8B91ACDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14040485-28DD-44F2-A0E6-BEC8B91ACDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14040485-28DD-44F2-A0E6-BEC8B91ACDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
