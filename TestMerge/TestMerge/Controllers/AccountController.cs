@@ -33,6 +33,7 @@ namespace TestMerge.Controllers
 
         public ActionResult LogOn()
         {
+            //redirect to view page.
             return View();
         }
 
