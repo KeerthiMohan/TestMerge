@@ -11,6 +11,7 @@ namespace TestMerge.Controllers
     {
         public ActionResult Index()
         {
+            //aaa
             ViewData["Message"] = "Welcome to ASP.NET MVC!";
             //Logon view page
             return View();
