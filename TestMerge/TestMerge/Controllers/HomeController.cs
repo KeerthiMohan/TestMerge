@@ -18,7 +18,7 @@ namespace TestMerge.Controllers
 
         public ActionResult About()
         {
-            //Redirecting to Home Page.
+            //Redirecting to Home Page.   
             return View();
         }
     }
